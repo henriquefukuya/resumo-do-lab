@@ -5,6 +5,7 @@
 📝 Todo o conteúdo programático do curso
 
 
+
 ✅ Como a Computação em Nuvem Funciona
 
 📝 Explicação clara e objetiva do que é a Nuvem
@@ -14,11 +15,13 @@
 📝 Zonas e Regiões
 
 
+
 ✅ Introdução a Computação em Nuvem
 
 📝 Como criar uma conta no Azure
 
 📝 CapEx vs OpEx
+
 
 
 ✅ Benefícios da Computação em Nuvem
