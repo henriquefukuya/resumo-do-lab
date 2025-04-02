@@ -27,3 +27,15 @@
 📝 Confiabilidade, Previsibilidade e Segurança
 
 📝 Governança e Gerenciabilidade<br><br><br>
+
+⚠️ Entrega de Projeto<br>
+ <summary>Criando Máquinas Virtuais no Azure</summary><br><br><br>
+
+✅ Tipos de Serviço de Nuvem na Azure<br>
+
+📝 IaaS, PaaS e SaaS
+
+📝 Modelo de Responsabilidade Compartilhada<br><br><br>
+
+⚠️ Entrega de Projeto<br>
+ <summary> Configurando uma instância de Banco de Dados no Azure</summary><br><br><br>
